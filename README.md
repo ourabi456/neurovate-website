@@ -1,1 +1,0 @@
-# neurovate-website
